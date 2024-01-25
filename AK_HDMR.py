@@ -1,3 +1,5 @@
+# Script de calcul de probabilité de défaillance couplant les méthodes AK et HDMR pour l'analyse de fiaiblité en grande dimension.
+
 # -*- coding: utf-8 -*-
 """
 Created on Thu Apr 20 11:07:32 2017
