@@ -1,10 +1,3 @@
-Bonjour,
-
-Vous trouverez mes deux projets suivants :
-- le développement d'une application de gestion de tournoi pour le Soft Armored Fighting
-- le développement de scripts python et scilab dans le cadre de ma thèse de doctorat.
-
-Pour cela, cliquez sur main pour changer de branche.
-
-Merci.
-Nicolas Lelièvre
+Voici les widgets mendix développés pour Inoprod :
+- https://marketplace.mendix.com/link/component/244575
+- Projet en cours : widget de création de graphiques complexes
